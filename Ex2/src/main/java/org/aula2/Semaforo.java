@@ -1,6 +1,4 @@
-package main.java.org.aula2;
-
-import main.java.org.aula2.Estado;
+package org.aula2;
 
 public class Semaforo {
 

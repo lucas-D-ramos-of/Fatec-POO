@@ -1,8 +1,6 @@
 
 package org.ex3;
 
-import main.java.org.ex3.Produto;
-
 public class Ex3 {
 
     public static void main(String[] args) {

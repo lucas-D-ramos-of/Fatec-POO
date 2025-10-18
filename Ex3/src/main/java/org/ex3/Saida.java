@@ -1,5 +1,5 @@
 
-package main.java.org.ex3;
+package org.ex3;
 
 public class Saida {
 
